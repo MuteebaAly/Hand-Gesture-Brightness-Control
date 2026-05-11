@@ -2,7 +2,7 @@
 A Python project to control system brightness using Hand Gestures with MediaPipe and OpenCV.
 
 ### How it works:
-This application uses a real-time camera feed. By measuring the distance between your **index finger** and **thumb**, the code calculates how much to increase or decrease the brightness. I used **MediaPipe** for hand tracking and **OpenCV** for the visual interface.
+This application uses a real-time camera feed. By measuring the distance between  **index finger** and **thumb**, the code calculates how much to increase or decrease the brightness. I used **MediaPipe** for hand tracking and **OpenCV** for the visual interface.
 
 ### Tech Stack:
 * **Python**: The core language used.
